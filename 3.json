@@ -1,0 +1,34 @@
+{
+    "classmates":[
+      {
+        "id": "0001",
+        "name": "Alex",
+        "age": 28,
+        "address": "Saint-P., Morskaya, 28"
+      },
+      {
+        "id": "0002",
+        "name": "Dave",
+        "age": 39,
+        "address": "Saint-P., Svetlaya, 280"
+      },
+      {
+        "id": "0003",
+        "name": "Ava",
+        "age": 18,
+        "address": "Saint-P., Svetlaya, 280"
+      },
+      {
+        "id": "0004",
+        "name": "Anna",
+        "age": 21,
+        "address": "Pushkin., Novaya, 80"
+      },
+      {
+        "id": "0005",
+        "name": "Sergei",
+        "age": 48,
+        "address": "Saint-P., Svetlaya, 280"
+      }
+    ]
+}
